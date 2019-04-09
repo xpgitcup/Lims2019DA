@@ -32,7 +32,7 @@
     <asset:stylesheet src="easyui/themes/color.css"/>
 
     <!-- 只有加载这个样式，才能实现全屏显示 -->
-    <asset:stylesheet src="bootstrap/css/bootstrap.min.css"/>
+    <asset:stylesheet src="bootstrap/css/bootstrap.css"/>
 
     <!-- 加载石油大学的设置-->
     <asset:stylesheet src="cup/cup20190407.css"/>

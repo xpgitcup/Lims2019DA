@@ -229,7 +229,7 @@ function configDisplayUI(settings) {
 
     function addNewPaginationDiv(title, parentDiv) {
         //分页Div------加入到标签中
-        var paginationDiv = $('<div class="easyui-panel"><div class="easyui-pagination"></div></div>');
+        var paginationDiv = $('<div class="easyui-pagination"></div>');
         paginationDiv.attr('id', 'pagination' + title + 'Div');
         paginationDiv.appendTo(parentDiv)
         return paginationDiv;
